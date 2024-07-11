@@ -1,2 +1,2 @@
-# team079-wilty
-sample text readme
+# Final Group Project for CS 411, Database Systems
+Created a web application to see flight times and delays between the top 500 major airports in the USA and have routes between these cities mapped. App utilizes data from two public databases that were cleaned with SqL and hosted on a Javascript server. The project implements all aspects of CRUD and the ER diagram and database design philosphies can be seen in the docs folder within this repository.
